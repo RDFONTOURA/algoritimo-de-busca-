@@ -1,0 +1,8 @@
+contagem = 0 #testando o loop for#
+for contagem in range(1,10):
+    print(contagem)
+    
+contagem = 0 #testando o loop while#
+while(contagem <10):
+    print(contagem)
+    contagem = contagem +1 
